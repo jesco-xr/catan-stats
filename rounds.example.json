@@ -1,0 +1,14 @@
+[
+  {
+    "round_number": 1,
+    "date": "10.01.2026",
+    "location": "Spielort",
+    "round_mvp": { "type": "sheep", "name": "Tomate" },
+    "player_results": [
+      { "name": "Jule", "rank": 2, "total_points": 9, "development_card_points": 2, "knights_played": 2, "board_state": { "roads": 8, "settlements": 1, "cities": 3, "harbors": ["3:1"] } },
+      { "name": "Kata", "rank": 3, "total_points": 8, "development_card_points": 1, "knights_played": 3, "board_state": { "roads": 6, "settlements": 3, "cities": 2, "harbors": ["wool", "3:1"] } },
+      { "name": "Marc", "rank": 4, "total_points": 6, "development_card_points": 0, "knights_played": 0, "board_state": { "roads": 11, "settlements": 2, "cities": 1, "harbors": ["3:1"] } },
+      { "name": "Sebbe", "rank": 1, "total_points": 10, "development_card_points": 1, "knights_played": 3, "board_state": { "roads": 8, "settlements": 3, "cities": 2, "harbors": [] } }
+    ]
+  }
+]
